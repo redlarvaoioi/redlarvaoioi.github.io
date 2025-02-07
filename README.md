@@ -1,40 +1,10 @@
-# <img src=".github/assets/logo.png" alt="Ampler Logo" align="right" width="175px"> Ampler Launcher v1.1.00
- A minecraft themed launcher for Eaglercraft!<br>
- Containing some of the best clients all in one place!
-
+This is a better remix of the original launcher. Now with a marketplace included! You now have the ability to mange all your mods, buy mods and addons, check servers, and add your own servers! This launcher includes all clients up to 1.14.2, with some downloads available by default that u can download. This will soon be available as an app that u can install (currently only chrome is supported sorry). An offline file is also in the works (almost done!!!!). Patch notes will be available in future updates.
 
 <img src=".github/assets/launcher.png" alt="Launcher Photo"><br>
 
-<hr>
-
- ## Versions
- __v1.1.00__ - Updated code and optimized!
- __v1.0.00__ - Main code with future updates planned!
-
- <hr>
-
-## Installation
- Currently just download the repository for the source code!<br>
- Future plans for an offline file may be possible!
-
-<hr>
-
-## Features Planned
-
-<details>
-<summary>Click here to expand feature list</summary>
-
-- [ ] Add Credits screen
-- [ ] Add Settings screen
-- [x] Rewrite some of the css and js
-- [ ] Organize code, and add comments
-- [ ] Add a customizable launcher selector
-- [ ] Add the servers screen
-- [ ] Fix display errors
-- [ ] Offline launcher download?
-- [ ] Implement top bar options
-</details>
-
-<hr>
-
->__Finally [here](https://irv77.github.io/AmplerLauncher/) is the live version of the code!__
+Features in the works:
+[x] Offline file
+[x] Servers
+[] Mod manager
+[] Marketplace
+[] Download clients
