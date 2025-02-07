@@ -3,8 +3,10 @@ This is a better remix of the original launcher. Now with a marketplace included
 <img src=".github/assets/launcher.png" alt="Launcher Photo"><br>
 
 Features in the works:
-[x] Offline file
-[x] Servers
-[] Mod manager
-[] Marketplace
-[] Download clients
+ Offline file
+ Servers
+ Mod manager
+ Marketplace
+ Download clients
+
+All credits to irv77 for the original launcher!!!!!!!
